@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);\n@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);\n@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);\n\nbody { font-family: 'Droid Serif', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif; }\nh1, h2, h3 {\n  font-family: 'Yanone Kaffeesatz';\n  font-weight: normal;\n}\na, a > code {\n  color: rgb(136, 57, 138);\n  text-decoration: none;\n}\n.footnote {\n  position: absolute;\n  bottom: 3em;\n  font-size: 90%;\n}\n.remark-code, .remark-inline-code { font-family: 'Source Code Pro', 'Lucida Console', Monaco, monospace; }\n.remark-code-line-highlighted     { background-color: #88398A; }\n\n.inverse {\n  background-color: #88398A;\n  color: #777872;\n  text-shadow: 0 0 20px #333;\n}\n.inverse h1, .inverse h2, .inverse h3 {\n  color: #f3f3f3;\n  line-height: 0.8em;\n}\n/* Two-column layout */\n.left-column {\n  color: #777;\n  width: 20%;\n  height: 92%;\n  float: left;\n}\n.left-column h2:last-of-type, .left-column h3:last-child {\n  color: #000;\n}\n.right-column {\n  width: 75%;\n  float: right;\n  padding-top: 1em;\n}\n.pull-left {\n  float: left;\n  width: 47%;\n}\n.pull-right {\n  float: right;\n  width: 47%;\n}\n.pull-right ~ * {\n  clear: both;\n}\nimg {\n  max-width: 100%;\n}\n",
+    "created" : 1496158792374.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3911194406",
+    "id" : "FEAD3148",
+    "lastKnownWriteTime" : 1496159154,
+    "last_content_update" : 1496159154508,
+    "path" : "~/Documents/wonderland/rladies-nash/meetups/2017-05-30_git-r-journey/libs/remark-css/example.css",
+    "project_path" : "libs/remark-css/example.css",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

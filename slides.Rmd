@@ -4,6 +4,7 @@ author: "Lucy D'Agostino McGowan"
 output:
   xaringan::moon_reader:
     lib_dir: libs
+    css: libs/remark-css/example.css
     nature:
       highlightStyle: github
       highlightLines: true
@@ -23,9 +24,6 @@ Inspiration: Jenny Bryan's [Happy Git with R](http://happygitwithr.com/install-g
 ---
 # R + Github Adventure
 
-- choose your own adventure   
-
---
 
 - get on GitHub  
 
@@ -35,7 +33,7 @@ Inspiration: Jenny Bryan's [Happy Git with R](http://happygitwithr.com/install-g
 
 --
 
-- do things with it!  
+- choose your own adventure!
 
 ---
 
@@ -79,6 +77,11 @@ class:center
 <img src = http://31.media.tumblr.com/85218cfba3ffd16bf85030306a10257f/tumblr_mximavYGMk1rmesz7o1_250.gif width = 150%> </img>
 
 ---
+# Workflow
+
+![](img/personal.png)
+
+---
 
 # Commands
 
@@ -100,3 +103,19 @@ git add filename
 git commit –m "describe your file change here"
 git push -u origin master
 ```
+
+---
+# Workflow
+
+![](img/collab.png)
+
+---
+class: center
+
+##[datasauRus](https://github.com/stephlocke/datasauRus/network)
+
+<img src = img/datasaurus.gif width = 50%> </img>
+
+---
+# choose your own adventure
+
