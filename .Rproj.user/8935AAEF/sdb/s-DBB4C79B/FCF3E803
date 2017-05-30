@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \" R+Github adventure\"\nauthor: \"Lucy D'Agostino McGowan\"\noutput:\n  xaringan::moon_reader:\n    lib_dir: libs\n    nature:\n      highlightStyle: github\n      highlightLines: true\n---\n\n```{r setup, include=FALSE}\noptions(htmltools.dir.version = FALSE)\n```\n\n## test\n```{r}\n\n```\n\n---\n\n## test2 \n\n---\n",
+    "created" : 1496154088480.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "421007702",
+    "id" : "FCF3E803",
+    "lastKnownWriteTime" : 1496154901,
+    "last_content_update" : 1496154901538,
+    "path" : "~/Documents/wonderland/rladies-nash/meetups/2017-05-30_git-r-journey/slides.Rmd",
+    "project_path" : "slides.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

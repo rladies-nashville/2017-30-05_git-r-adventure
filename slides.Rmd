@@ -1,0 +1,25 @@
+---
+title: " R+Github adventure"
+author: "Lucy D'Agostino McGowan"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+## test
+```{r}
+
+```
+
+---
+
+## test2 
+
+---
