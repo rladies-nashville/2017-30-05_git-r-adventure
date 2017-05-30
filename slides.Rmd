@@ -53,13 +53,13 @@ class: center
 <img src = https://octodex.github.com/images/femalecodertocat.png width = 50%></img>
 
 ---
+# Install git
+
+##[Survey](https://github.com/rladies-nashville/2017-30-05_git-r-adventure/issues/1)
+
+---
 
 #Install git
-
-## Windows: 
-[Git for Windows](https://git-for-windows.github.io)
-
---
 
 ## Mac:
 
@@ -68,6 +68,16 @@ git --version
 ```
 
 click install!
+
+--
+
+## Windows: 
+[Git for Windows](https://git-for-windows.github.io)
+
+--
+
+##[Survey](https://github.com/rladies-nashville/2017-30-05_git-r-adventure/issues/1)
+
 
 ---
 class:center
@@ -85,6 +95,7 @@ class:center
 
 # Commands
 
+already on your computer
 ```
 git init
 git add .
@@ -92,6 +103,12 @@ git commit –m "first commit :tada:"
 git remote add origin https://github.com/your-user-name/project-name.git
 git push -u origin master
 ```
+
+from GitHub
+```
+git clone https://github.com/your-user-name/project-name.git
+```
+
 ---
 
 # Commands
@@ -117,5 +134,27 @@ class: center
 <img src = img/datasaurus.gif width = 50%> </img>
 
 ---
+# commit messages
+
+- `r emo::ji("bug")`: bug fix
+- `r emo::ji("see_no_evil")`: spelling error
+- `r emo::ji("nail_care")`: documentation
+- `r emo::ji("construction")`: under construction
+- `r emo::ji("poop")`: broke it all!
+- `r emo::ji("fire")`: burn it all down
+
+
+[emojis!](https://gist.github.com/rxaviers/7360908)
+
+---
 # choose your own adventure
 
+- [Email Templates](https://github.com/ropenscilabs/ponyexpress)
+
+--
+
+- [RMarkdown Website](http://nickstrayer.me/RMarkdown_Sites_tutorial/)
+
+--
+
+- do your own thing
