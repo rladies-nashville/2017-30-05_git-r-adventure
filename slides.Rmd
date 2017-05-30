@@ -12,14 +12,91 @@ output:
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
+class: center
 
-## test
-```{r}
+# R + Github adventure
+
+![](http://media.giphy.com/media/HVr4gFHYIqeti/giphy.gif)
+
+Inspiration: Jenny Bryan's [Happy Git with R](http://happygitwithr.com/install-git.html#windows)
+
+---
+# R + Github Adventure
+
+- choose your own adventure   
+
+--
+
+- get on GitHub  
+
+--
+
+- get git working  
+
+--
+
+- do things with it!  
+
+---
+
+# follow along
+
+### slides
+https://rladies-nashville.github.io/2017-30-05_git-r-adventure/slides
+
+### repo
+https://github.com/rladies-nashville/2017-30-05_git-r-adventure
+---
+
+class: center
+
+#[https://github.com](https://github.com)
+
+<img src = https://octodex.github.com/images/femalecodertocat.png width = 50%></img>
+
+---
+
+#Install git
+
+## Windows: 
+[Git for Windows](https://git-for-windows.github.io)
+
+--
+
+## Mac:
 
 ```
+git --version
+```
+
+click install!
+
+---
+class:center
+
+# Let's make a practice repo!
+
+<img src = http://31.media.tumblr.com/85218cfba3ffd16bf85030306a10257f/tumblr_mximavYGMk1rmesz7o1_250.gif width = 150%> </img>
 
 ---
 
-## test2 
+# Commands
 
+```
+git init
+git add .
+git commit –m "first commit :tada:"
+git remote add origin https://github.com/your-user-name/project-name.git
+git push -u origin master
+```
 ---
+
+# Commands
+
+every time you make a change:
+
+```
+git add filename
+git commit –m "describe your file change here"
+git push -u origin master
+```
