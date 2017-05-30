@@ -18,8 +18,12 @@ class: center
 # R + Github adventure
 
 ![](http://media.giphy.com/media/HVr4gFHYIqeti/giphy.gif)
+---
+# Inspiration
 
-Inspiration: Jenny Bryan's [Happy Git with R](http://happygitwithr.com/install-git.html#windows)
+Jenny Bryan's [Happy Git with R](http://happygitwithr.com/install-git.html#windows)
+
+![](img/jenny-and-lucy.jpg)
 
 ---
 # R + Github Adventure
